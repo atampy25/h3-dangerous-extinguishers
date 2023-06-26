@@ -1,0 +1,9 @@
+{
+	"tempHash": "0037B1B02FEC6D74",
+	"tbluHash": "00E6DC00DCD2552C",
+	"patch": [
+		{ "SubEntityOperation": ["53596a279e8e44d3", { "RemovePropertyByName": "m_vTargetRadiiMedium" }] },
+		{ "SubEntityOperation": ["53596a279e8e44d3", { "RemovePropertyByName": "m_vPacifyRadiiMedium" }] }
+	],
+	"patchVersion": 6
+}
