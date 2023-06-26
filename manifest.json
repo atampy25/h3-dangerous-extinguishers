@@ -1,10 +1,11 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"id": "Atampy26.DangerousExtinguishers",
 	"name": "Dangerous Extinguishers",
 	"description": "Makes fire extinguishers dangerous again.",
 	"authors": ["Atampy26"],
-	"frameworkVersion": "2.25.1",
-	"contentFolders": ["content"]
+	"frameworkVersion": "2.29.0",
+	"contentFolders": ["content"],
+	"updateCheck": "https://github.com/atampy25/h3-dangerous-extinguishers/releases/latest/download/updates.json"
 }
